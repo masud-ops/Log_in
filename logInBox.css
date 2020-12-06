@@ -1,0 +1,135 @@
+section {
+    background: #452959;
+    width: 950px;
+    padding: 60px;
+    margin: auto;
+	margin-top:40px;
+}
+
+.mainBox {
+    overflow: hidden;
+    width: 850px;
+	margin:auto;
+}
+
+.signBox {
+    width: 350px;
+    overflow: hidden;
+    float: left;
+	background:white;
+	color:black;
+}
+
+.signBoxTitle h1 {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 45px;
+    color: #333333eb;
+    font-family: revert;
+}
+
+.signBox input {
+    width: 80%;
+    padding: 12px;
+    margin-left: 25px;
+    border: none;
+    font-size: 12px;
+    box-shadow: 0px 1px 6px black;
+    margin-bottom: 35px;
+}
+
+.submitBtn a {
+    display: block;
+    text-decoration: none;
+	color:white;
+	
+    padding: 10px 15px; 
+	margin-bottom: 55px;
+	margin-top: 30px;
+	transition:.4s;
+}
+
+.submitBtn a:hover{background:#ddd;color:black}
+
+.submitBtn {
+    background: #583672;
+    width: 100px;
+    
+   
+    
+    border-radius: 3px;
+    box-shadow: 0px 0px 3px black;
+    font-family: revert;
+	margin: auto;
+}
+
+
+
+.homeslider {
+    background: url(https://masud-ops.github.io/web_bg/web-design-background.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+	background-size: cover;
+	margin:0px;
+	padding:0px;
+}
+
+.homeslider {
+    width: 500px;
+    float: right;
+    overflow: hidden;
+}
+
+.homeslider img {
+    width: 100%;
+}
+
+.sliderContent h1 {
+    text-align: center;
+    color: #ddd;
+    margin-top: 200px;
+    font-family: serif;
+}
+
+.sliderContent p {
+    text-align: center;
+    color: #ddd;
+	margin-bottom: 122px;
+    
+}
+.dashB {
+    content: "";
+    width: 18px;
+    height: 1px;
+    color: white;
+    background: white;
+    border: 1px solid white;
+    margin: auto;
+    margin-bottom: 45px;
+    margin-top: 30px;
+    display: inline-block;
+  
+}
+.dashBwrapper {
+    overflow: hidden;
+    margin-left: 210px;
+}
+.sBoxIconTitle {
+    overflow: hidden;
+    /* float: left; */
+    padding: 20px;
+    font-family: ui-serif;
+    font-weight: 700;
+}
+
+.sBoxIconTitle i {
+    background: white;
+    color: black;
+    font-size: 12px;
+}
+
+.sBoxIconTitle span {
+    margin-left: 8px;
+    color: #333;
+	font-size: 12px;
+}
